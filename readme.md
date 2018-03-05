@@ -1,5 +1,7 @@
 #TODO:
 
+* Work on profile website
+
 * Finish building fullstack X3D project
 
 * Rebuild fullstack coinbot with less bugs
