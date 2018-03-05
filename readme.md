@@ -19,3 +19,19 @@
 * Learn more about encryption
 
 * Learn more about JSON Web Tokens
+
+## Other TODOS
+
+* Get more familiar with promises
+
+* Get more familiar with closures
+
+* Get more familiar with high order components
+
+* Get more familiar with object oriented way of programming
+
+* Get more familiar with pseudo selectors
+
+* Get more familiar with how CSS works
+
+* Get more familiar with tricky ways to use CSS
