@@ -1,4 +1,4 @@
-#TODO:
+# TODO:
 
 * Videos for projects and keep my Talent profile up to date
 
@@ -12,7 +12,7 @@
 
 * Learn how to deploy one of these on heroku and do it
 
-#TODO Baby steps:
+# TODO Baby steps:
 
 * Deploy a Q3 project on heroku using a simple API just for some info to build lists
 
@@ -41,3 +41,7 @@
 * Get more familiar with how CSS works
 
 * Get more familiar with tricky ways to use CSS
+
+* Add to and understand my Study Guide
+
+* Add to my notes file and differentiate between the notes file (which should be example code and CDN links etc...) and the study guide
