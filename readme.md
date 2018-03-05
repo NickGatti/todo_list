@@ -2,6 +2,8 @@
 
 * Videos for projects and keep my Talent profile up to date
 
+* Update resume on creddle
+
 * Work on profile website
 
 * Finish building fullstack X3D project
